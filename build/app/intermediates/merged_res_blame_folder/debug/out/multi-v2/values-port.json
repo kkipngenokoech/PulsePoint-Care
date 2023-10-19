@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/the/Documents/programming/templates/medilab-prokit/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/the/.gradle/caches/transforms-3/c8e0f46adfa9f642ff74c0e0a6f2db75/transformed/appcompat-1.4.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

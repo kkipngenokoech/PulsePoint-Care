@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/the/Documents/programming/templates/medilab-prokit/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/the/.gradle/caches/transforms-3/08e342b76ca492c2045e08d6cd2196ac/transformed/core-1.6.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/the/Documents/programming/templates/medilab-prokit/build/path_provider_android/intermediates/merged_res/debug/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/the/.gradle/caches/transforms-3/08e342b76ca492c2045e08d6cd2196ac/transformed/core-1.6.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

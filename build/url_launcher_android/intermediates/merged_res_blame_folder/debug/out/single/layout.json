@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/c608ae65e4ed13ce5b8cc6aceaa6d679/transformed/core-1.10.1/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/c608ae65e4ed13ce5b8cc6aceaa6d679/transformed/core-1.10.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/c608ae65e4ed13ce5b8cc6aceaa6d679/transformed/core-1.10.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/c608ae65e4ed13ce5b8cc6aceaa6d679/transformed/core-1.10.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/browser_actions_context_menu_row.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/4cd7e60dc5b8cc268c8b51020b9288b7/transformed/browser-1.5.0/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/browser_actions_context_menu_page.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/4cd7e60dc5b8cc268c8b51020b9288b7/transformed/browser-1.5.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_action.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/c608ae65e4ed13ce5b8cc6aceaa6d679/transformed/core-1.10.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/the/Documents/programming/templates/medilab-prokit/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/the/.gradle/caches/transforms-3/c608ae65e4ed13ce5b8cc6aceaa6d679/transformed/core-1.10.1/res/layout/notification_template_icon_group.xml"
+    }
+]
